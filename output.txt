@@ -1,0 +1,38 @@
+1/
+--------
+Student Name: Lisa Miller
+Student ID: 890238
+Number of courses enrolled: 4
+
+Total number of credits: 13
+
+The tuition fee has not been paid, so your grades cannot be shown.
+Please pay the required fee.
+Tuition Fee: 400
+
+2/
+--------
+Student Name: Ege Yolsal
+Student ID: 425425
+Number of courses enrolled: 3
+
+Course No      Course Name    Credits        Grade          
+DTS123         	DataStr        	3              	A              
+HIS356         	History        	3              	B              
+MTH345         	Mathematics    	4              	A              
+
+Total Number of Credits: 10
+Mid - Semester GPA: 3.70
+
+3/
+--------
+Student Name: Murat Kacagan
+Student ID: 412905
+Number of courses enrolled: 4
+
+Total number of credits: 13
+
+The tuition fee has not been paid, so your grades cannot be shown.
+Please pay the required fee.
+Tuition Fee: 400
+

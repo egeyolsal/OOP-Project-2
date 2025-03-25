@@ -1,0 +1,18 @@
+3 100
+
+Lisa Miller 890238 N 4
+Mathematics MTH345 4 A
+Physics PHY357 3 B
+ComputerSci CSC478 3 B
+History HIS356 3 A
+
+Ege Yolsal 425425 Y 3
+Mathematics MTH345 4 A
+DataStr DTS123 3 A
+History HIS356 3 B
+
+Murat Kacagan 412905 N 4
+Mathematics MTH345 4 A
+Physics PHY357 3 A
+ComputerSci CSC478 3 A
+History HIS356 3 D
